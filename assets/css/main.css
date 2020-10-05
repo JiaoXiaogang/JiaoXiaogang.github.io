@@ -1661,5 +1661,5 @@ input, select, textarea {
 		}
 
 		/* 自己添加的css控制效果 */
-	.jieshao li{ list-style: none; float: left; margin-right: 10%;}
+	.jieshao li{ list-style: none; float: left; margin-right: 5%;}
 	.jieshao img {  height: 50px; width: 50px;}
