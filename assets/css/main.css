@@ -1257,7 +1257,10 @@ input, select, textarea {
 		/* background-image: -moz-radial-gradient(rgba(255, 85, 255, 0.2) 25%, rgba(0, 0, 0, 0) 55%);
 		background-image: -webkit-radial-gradient(rgba(170, 170, 0, 0.2) 25%, rgba(0, 0, 0, 0) 55%);
 		background-image: -ms-radial-gradient(rgba(85, 85, 85, 0.2) 25%, rgba(0, 0, 0, 0) 55%); */
-		background-image: radial-gradient(rgba(60, 177, 255, 0.397) 1%, rgba(255, 0, 0, 0.0) 55%);
+		
+		
+		/* 背景光晕 */
+		background-image: radial-gradient(rgba(137, 190, 240, 0.301) 1%, rgba(255, 0, 0, 0.0) 55%);
 		max-width: 100%;
 		text-align: center;
 	}
